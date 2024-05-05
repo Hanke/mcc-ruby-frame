@@ -1,0 +1,47 @@
+---
+- mcc: '0742'
+  edited_description: Veterinary Services
+  combined_description: Veterinary Services
+  usda_description: Veterinary Services
+  irs_description: Veterinary Services
+  irs_reportable: 'Yes'
+- mcc: '0763'
+  edited_description: Agricultural Co-operatives
+  combined_description: Agricultural Co-operatives
+  usda_description: Agricultural Co-operatives
+  irs_description: Agricultural Cooperative
+  irs_reportable: 'Yes'
+- mcc: '0780'
+  edited_description: Horticultural Services, Landscaping Services
+  combined_description: Horticultural Services, Landscaping Services
+  usda_description: Horticultural Services
+  irs_description: Landscaping Services
+  irs_reportable: 'Yes'
+- mcc: '1520'
+  edited_description: General Contractors-Residential and Commercial
+  combined_description: General Contractors-Residential and Commercial
+  usda_description: General Contractors-Residential and Commercial
+  irs_description: General Contractors
+  irs_reportable: 'Yes'
+- mcc: '1711'
+  edited_description: Air Conditioning Contractors – Sales and Installation, Heating
+    Contractors – Sales, Service, Installation
+  combined_description: Air Conditioning Contractors – Sales and Installation, Heating
+    Contractors – Sales, Service, Installation
+  usda_description: Air Conditioning Contractors – Sales and Installation
+  irs_description: Heating, Plumbing, A/C
+  irs_reportable: 'Yes'
+- mcc: '1731'
+  edited_description: Electrical Contractors
+  combined_description: Electrical Contractors
+  usda_description: Electrical Contractors
+  irs_description: Electrical Contractors
+  irs_reportable: 'Yes'
+- mcc: '1740'
+  edited_description: Insulation – Contractors, Masonry, Stonework Contractors, Plastering
+    Contractors, Stonework and Masonry Contractors, Tile Settings Contractors
+  combined_description: Insulation – Contractors, Masonry, Stonework Contractors,
+    Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors
+  usda_description: Insulation – Contractors
+  irs_description: Masonry, Stonework, and Plaster
+  irs_reportable: 'Yes'
